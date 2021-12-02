@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-unicornsports-dev-204751-authRole",
+      "UnauthRoleArn": "arn:aws:iam::108597326429:role/amplify-unicornsports-dev-204751-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::108597326429:role/amplify-unicornsports-dev-204751-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-unicornsports-dev-204751-deployment",
+      "UnauthRoleName": "amplify-unicornsports-dev-204751-unauthRole",
+      "StackName": "amplify-unicornsports-dev-204751",
+      "StackId": "arn:aws:cloudformation:us-west-2:108597326429:stack/amplify-unicornsports-dev-204751/1e9a0590-53b1-11ec-b49d-02612b177051",
+      "AmplifyAppId": "djd5djd1dy6m1"
+    },
+    "categories": {
+      "auth": {
+        "VideoAuth": {}
+      }
+    }
+  }
+}
